@@ -14,6 +14,6 @@ This contains all my completed online course certificates. Each certificate incl
 |---|-------------|----------------|----------------|------------------|
 | 1 | Saylor Academy - CS101: Introduction to Programming I | January 5, 2026 | [Download](certificates/1.pdf) | [Online Certificate](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1767587988/3231458792JB.pdf) |
 | 1 | Cognitive Class - Data Visualization with R | January 5, 2026 | [Download](certificates/.pdf) | [Online Certificate](https://courses.cognitiveclass.ai/certificates/13eb3116d7a84e83aeb7f28b026116f9) |
-| 3 | Saylor Academy - Course 3 | TBD | [Download](certificates/3.pdf) | TBD |
+| 3 | freeCodeCamp - Data Visualization V8 | January 7, 2026 | [Download](certificates/3.png) | TBD |
 | 4 | Saylor Academy - Course 4 | TBD | [Download](certificates/4.pdf) | TBD |
 | 5 | Saylor Academy - Course 5 | TBD | [Download](certificates/5.pdf) | TBD |
